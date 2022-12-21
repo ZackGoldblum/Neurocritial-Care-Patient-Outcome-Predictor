@@ -1,0 +1,9 @@
+title: Neurocritical Care Predictor
+author: Zack Goldblum, Josh Miller, Kevin Ramirez Chavez
+abstract: Patients with severe neurological and neurosurgical conditions are treated at 
+  Neurocritical Intensive Care Units. These patients present a combination of unique 
+  conditions that make it difficult for the physician to provide an accurate treatment 
+  pathway, resulting in a higher mortality risk for the patient. The purpose of this project 
+  is to provide physicians with a tool for predicting the outcome for a new patient. This 
+  GUI-based tool compares the patient information entered by the clinician to a database of 
+  previous patients and determines the mortality risk for the current patient.
