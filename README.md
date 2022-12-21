@@ -1,8 +1,10 @@
-# BMES 550 Group 24 | Neurocritical Care Patient Outcome Prediction GUI
+# Neurocritical Care Patient Outcome Prediction GUI
 
 Authors: Zack Goldblum, Josh Miller, Kevin Ramirez Chavez
 
-This project provides a GUI interface for clinicians to predict the outcome of a neurocritical care patient. The parameters input for a current patient are compared to a database of retrospectively collected patients and medical data using a k nearest neighbors algorithm. The utilized database is the [Medical Information Mart for Intensive Care (MIMIC)-IV](https://physionet.org/content/mimiciv/2.1/). 
+Final project for BMES 550 Advanced Computational Languages at Drexel University 
+
+This project provides a GUI for clinicians to predict the outcome of a neurocritical care patient. The parameters input for a current patient are compared to a database of retrospectively collected patients and medical data using a k-nearest neighbors algorithm. The utilized database is the [Medical Information Mart for Intensive Care (MIMIC)-IV](https://physionet.org/content/mimiciv/2.1/). 
 
 Reference: Johnson, A., Bulgarelli, L., Pollard, T., Horng, S., Celi, L. A., & Mark, R. (2022). MIMIC-IV (version 2.1). PhysioNet. https://doi.org/10.13026/rrgf-xw32.
 
@@ -19,8 +21,6 @@ Install the necessary packages:
     pip install pandas
 
     pip install numpy
-
-NOTE: The BMES 550 bmes.ahmet Dropbox folder is required as well. 
     
 This project was created using Python version 3.10.8.
 
