@@ -1,4 +1,4 @@
-# Neurocritical Care Patient Outcome Prediction GUI
+# BMES 550 Group 24 | Neurocritical Care Patient Outcome Prediction GUI
 
 Authors: Zack Goldblum, Josh Miller, Kevin Ramirez Chavez
 
@@ -19,6 +19,8 @@ Install the necessary packages:
     pip install pandas
 
     pip install numpy
+
+NOTE: The BMES 550 bmes.ahmet Dropbox folder is required as well. 
     
 This project was created using Python version 3.10.8.
 
